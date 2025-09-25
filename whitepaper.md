@@ -181,23 +181,24 @@ function burnFrom(address account, uint256 amount) external
 
 ## Team
 
-### RBO Founder - Founder & CEO
-- 8+ years in blockchain development
-- Extensive experience in DeFi protocol development
-- Led multiple successful protocol launches
-- Expert in smart contract architecture
+### RBO Founder - Founder & Developer
+- **Experience**: 8+ years in blockchain development
+- **Specialization**: Smart Contracts & DeFi protocols
+- **Languages**: Solidity, JavaScript, Python
+- **Philosophy**: Open Source & Transparency
+- **GitHub**: https://github.com/huazai0701
+- **Profile**: Independent blockchain developer with extensive experience in smart contract development and DeFi protocols. Committed to building secure, efficient, and user-friendly blockchain solutions.
 
-### RBO Dev - CTO & Lead Developer
-- Smart contract security specialist
-- Expertise in Solidity and DeFi protocols
-- Focused on building secure blockchain solutions
-- Committed to open-source development
+## About This Project
 
-### RBO Marketing - Head of Marketing
-- Extensive experience in crypto marketing
-- Led successful campaigns for DeFi projects
-- Expert in community building
-- Strategic partnership development
+RBO Protocol is a personal blockchain project developed to explore and demonstrate advanced ERC20 token features on the Binance Smart Chain. The project focuses on security, efficiency, and user experience while maintaining transparency through open-source development.
+
+### Contract Information
+- **Contract Address**: 0x5c84d41028E13E8BFea9dB568b998fAdD47a5940
+- **Network**: Binance Smart Chain (BSC)
+- **Verification**: Verified on BSCScan
+- **License**: MIT License
+- **Source Code**: https://github.com/huazai0701/Zs
 
 ---
 
@@ -250,4 +251,7 @@ Join the RBO Protocol community and be part of the future of decentralized finan
 - **Telegram**: https://t.me/ac_ccc1
 
 ---
+
+**Disclaimer**: This whitepaper is for informational purposes only and does not constitute financial advice. Cryptocurrency investments carry significant risk, and investors should conduct their own research before making investment decisions.
+
 **© 2025 RBO Protocol. All rights reserved.**

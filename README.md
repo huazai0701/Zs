@@ -21,7 +21,7 @@ RBO Protocol is designed to provide secure, efficient, and user-friendly blockch
 - **Decimals**: 18
 - **Network**: Binance Smart Chain (BSC)
 - **Standard**: ERC20 with ERC20Permit
-
+- **Contract address**：0x5c84d41028E13E8BFea9dB568b998fAdD47a5940
 ## 📁 Contract Files
 
 - `BNB.sol` - Main smart contract

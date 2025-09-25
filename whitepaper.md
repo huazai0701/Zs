@@ -2,7 +2,7 @@
 ## Revolutionary Blockchain Operations Protocol
 
 **Version 1.0**  
-**Date: December 2025**  
+**Date: September 2025**  
 **Website: https://ddccsan.org**  
 **Email: admin@ddccsan.org**
 
@@ -250,7 +250,4 @@ Join the RBO Protocol community and be part of the future of decentralized finan
 - **Telegram**: https://t.me/ac_ccc1
 
 ---
-
-**Disclaimer**: This whitepaper is for informational purposes only and does not constitute financial advice. Cryptocurrency investments carry significant risk, and investors should conduct their own research before making investment decisions.
-
 **© 2025 RBO Protocol. All rights reserved.**

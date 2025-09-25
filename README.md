@@ -24,7 +24,7 @@ RBO Protocol is designed to provide secure, efficient, and user-friendly blockch
 
 ## 📁 Contract Files
 
-- `bnb_token_v2.sol` - Main smart contract
+- `BNB.sol` - Main smart contract
 - `whitepaper.md` - Project whitepaper
 - `docs.html` - Documentation
 
